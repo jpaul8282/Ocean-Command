@@ -1,0 +1,6 @@
+{
+  "name": "Ocean Command",
+  "description": "Comprehensive maritime fleet command center, vessel telemetry, marine weather monitor, and ocean expedition tracking system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
